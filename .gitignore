@@ -1,0 +1,4 @@
+.terraform
+terraform.tfstate
+tofu.tfvars
+vm_key.pem
